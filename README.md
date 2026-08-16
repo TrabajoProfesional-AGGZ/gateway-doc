@@ -2,7 +2,7 @@
 
 Gateway de los microservicios de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/gateway/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/gateway-doc/)**
 
 ## Licencia ⚖️
 

@@ -11,15 +11,15 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 ## Resumen del repositorio
 
 * **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-105-blue)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-36-purple)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-38-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-35-green)
 
 ## Composición del código (Lenguajes)
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* ⚪ **Go Template:** 94.6%
-* 🔵 **Python:** 5.1%
+* ⚪ **Go Template:** 94.3%
+* 🔵 **Python:** 5.4%
 * 🐳 **Dockerfile:** 0.2%
 * 🟠 **HTML:** 0.1%
 * 🔴 **Ruby:** 0.1%
